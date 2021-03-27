@@ -1,0 +1,3 @@
+﻿  BDS.cpp
+C:\Users\Tri Nguyen\OneDrive\Desktop\AI\BDS\BDS\BDS.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+  BDS.vcxproj -> C:\Users\Tri Nguyen\OneDrive\Desktop\AI\BDS\Debug\BDS.exe
