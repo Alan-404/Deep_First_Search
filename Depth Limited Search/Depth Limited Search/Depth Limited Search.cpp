@@ -66,7 +66,7 @@ void Graph::DLS(int start, int goal, int dept_limit)
 				if (Dept[tmp] <= dept_limit)
 					st.push(tmp);
 				else
-					continue;
+					break;
 				if (tmp == goal)
 				{
 					printPath(path, start, goal);
